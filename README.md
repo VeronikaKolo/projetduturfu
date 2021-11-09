@@ -12,6 +12,7 @@ Pour les commits, penser à les préfixer d'un des mots clef suivant :
 * **FIX** - Quand on corrige un bug ou un problème
 * **MODIFY** - Quand on modifie quelque chose d'existant
 * **DELETE** - Quand on supprime quelque chose
+
 On peut aussi préciser le type de "chose" que l'on modifie (file, function, etc.).
 
 Par exemple, lorsque l'on ajoute une nouvelle fonction, on nomme notre commit :
